@@ -1,0 +1,1 @@
+python "path\to\window.py"
